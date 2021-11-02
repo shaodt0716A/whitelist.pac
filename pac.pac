@@ -1,6 +1,6 @@
 var wall_proxy = "PROXY 192.168.100.6:7888";
 var nowall_proxy = "PROXY 192.168.100.11:7888;";
-var direct = "DIRECT;";
+var direct = "PROXY 192.168.100.11:7888;";
 var ip_proxy = "PROXY 192.168.100.11:7888;";
 
 var white_domains = {
