@@ -10298,7 +10298,7 @@ var white_domains = {
 "":1
 },"nl":{
 "yhdm":1,
-},"cc"{
+},"cc":{
 "ai66":1,
 }
 };
