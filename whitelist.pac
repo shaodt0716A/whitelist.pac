@@ -10298,6 +10298,9 @@ var white_domains = {
 "":1
 },"nl":{
 "yhdm":1,
+},"tk":{
+"siruis00key":1,
+"siruis09key":1
 }
 };
 
