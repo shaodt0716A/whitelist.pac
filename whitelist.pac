@@ -10299,7 +10299,7 @@ var white_domains = {
 },"nl":{
 "yhdm":1,
 },"cc":{
-"hao6v":1,
+"hao6v":1
 },"tk":{
 "siruis00key":1,
 "siruis09key":1
