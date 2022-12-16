@@ -10304,7 +10304,9 @@ var white_domains = {
 "hao6v":1
 },"tk":{
 "siruis00key":1,
-"siruis09key":1
+"siruis09key":1,
+"siruis01key":1,
+"siruis02key":1
 }
 };
 
