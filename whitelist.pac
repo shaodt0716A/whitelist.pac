@@ -10307,6 +10307,8 @@ var white_domains = {
 "siruis09key":1,
 "siruis01key":1,
 "siruis02key":1
+},"com":{
+"infinix8":1
 }
 };
 
