@@ -1,9 +1,12 @@
 var wall_proxy = "SOCKS5 192.168.100.99:1080";
 var nowall_proxy = "DIRECT;";
-var direct = "DIRECT";
-var ip_proxy = "DIRECT";
+var direct = "DIRECT;";
+var ip_proxy = "DIRECT;";
 
 var white_domains = {
+"club":{
+"xhup":1
+},
 "live":{
 "lanjing":1,
 "zhuafan":1,
@@ -40,6 +43,7 @@ var white_domains = {
 "xitu":1,
 "jianshu":1,
 },"top":{
+"kook":1,
 "wjx":1,
 "1993s":1,
 "kdy666":1,
@@ -75,6 +79,8 @@ var white_domains = {
 "yuanyi":1,
 "zhaoming":1
 },"cc":{
+"tingbook":1,
+"2oc":1,
 "dious":1,
 "hyzm":1,
 "haiduomi":1,
@@ -253,6 +259,29 @@ var white_domains = {
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"aiqingyu1314":1,
+"5yju":1,
+"52netflix":1,
+"nfyingshi":1,
+"shanshanku":1,
+"tingzh":1,
+"aliyundrive":1,
+"lanzoug":1,
+"lanzoui":1,
+"xdtool":1,
+"ffmomola":1,
+"weiyun":1,
+"dazidazi":1,
+"yiyeting":1,
+"ting22":1,
+"himerico":1,
+"omo-pay":1,
+"mydnns":1,
+"hhnykg":1,
+"ting74":1,
+"feishucdn":1,
+"ysepan":1,
+"yinxiang":1,
 "v-56":1,
 "reyun":1,
 "douyinpic":1,
@@ -8921,6 +8950,9 @@ var white_domains = {
 },"mobi":{
 "i1515":1
 },"net":{
+"agemys":1,
+"aliyundrive":1,
+"onedns":1,
 "icyuyan":1,
 "bitbear":1,
 "rkidc":1,
@@ -8929,6 +8961,7 @@ var white_domains = {
 "xiaomi":1,
 "ck180":1,
 "k1080":1,
+"cn-ki":1,
 "21629":1,
 "aliyunedu":1,
 "haplat":1,
@@ -10288,6 +10321,7 @@ var white_domains = {
 "hanpi":1,
 },"pro":{
 "hanpi":1,
+"laixi":1,
 },"cool":{
 "kaikai":1,
 },"us":{
